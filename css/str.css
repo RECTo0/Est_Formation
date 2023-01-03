@@ -1,0 +1,10 @@
+a[href]:after {
+    content: none !important;
+}
+
+#left,
+.footer-section,
+.meta-section,
+header {
+    display: none;
+}
